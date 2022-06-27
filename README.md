@@ -44,7 +44,7 @@ node index.js-
     "token": "",
     "UpdateMessageInterval": 4000,
     "ChannelId": "Id of ur channel want the status is write",
-    "GameName": "garrysmod",
+    "GameName": "garrysmod", https://www.npmjs.com/package/gamedig for the list of game
     "EmbedInfo": {
         "Title": "ur tittle!",
         "Color": "#2387EB",
