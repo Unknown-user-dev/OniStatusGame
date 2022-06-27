@@ -4,7 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/Unknown-user-dev/OniStatusGame?style=flat-square)
 
 
-<p align="center">
+<p align="left">
   <img width="250" height="200" alt="Kannaso" src="https://i.imgur.com/azkZ9Ga.jpg"></img>
 </p>
 
