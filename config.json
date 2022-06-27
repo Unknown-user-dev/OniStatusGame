@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "UpdateMessageInterval": 4000,
+    "ChannelId": "Id of ur channel want the status is write",
+    "GameName": "garrysmod",
+    "EmbedInfo": {
+        "Title": "ur tittle!",
+        "Color": "#2387EB",
+        "Description": "Discover our great servers and feel free to join us. !\n\n**Total players:** <players>/<maxplayers>",
+        "ServerField1": "__<servername>__",
+        "ServerField2": "**Adress: [<ip>](https://discord.gg/JXcm7TbNUw)  Map: [<map>](ur discord)  Player: [<players>/<maxplayers>](ur discord)**"
+    },
+    "Servers": [
+        {
+            "ServerIp": "serverip",
+            "ServerPort": "serverport",
+            "ShowPlayers": true,
+            "UnsafeCount": false
+          }
+      ]
+  }

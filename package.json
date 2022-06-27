@@ -1,0 +1,16 @@
+{
+  "name": "Just use the code for u don't skid this code pls for respect me",
+  "version": "1.0.2",
+  "description": "No Skid pls ?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Unknown User",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "gamedig": "^4.0.4"
+  }
+}
