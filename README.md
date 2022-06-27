@@ -1,7 +1,7 @@
 ## Status Discord Bot Server
 ### A Status Bot for Discord.JS v12.5.3
-![Github Stars](https://img.shields.io/github/stars/Unknown-user-dev/Status-Discord-Bot-For-Server?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues-raw/Unknown-user-dev/Status-Discord-Bot-For-Server?style=flat-square)
+![Github Stars](https://img.shields.io/github/stars/Unknown-user-dev/OniStatusGame?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/Unknown-user-dev/OniStatusGame?style=flat-square)
 
 
 <p align="center">
