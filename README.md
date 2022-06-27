@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="497" height="768" alt="Kannaso" src="https://i.imgur.com/azkZ9Ga.jpg"></img>
+  <img width="497" height="500" alt="Kannaso" src="https://i.imgur.com/azkZ9Ga.jpg"></img>
 </p>
 
 ```
