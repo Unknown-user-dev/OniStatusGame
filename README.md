@@ -50,7 +50,7 @@ node index.js-
         "Color": "#2387EB",
         "Description": "Discover our great servers and feel free to join us. !\n\n**Total players:** <players>/<maxplayers>",
         "ServerField1": "__<servername>__",
-        "ServerField2": "**Adress: [<ip>](https://discord.gg/JXcm7TbNUw)  Map: [<map>](ur discord)  Player: [<players>/<maxplayers>](ur discord)**"
+        "ServerField2": "**Adress: [<ip>](ur discord)  Map: [<map>](ur discord)  Player: [<players>/<maxplayers>](ur discord)**"
     },
     "Servers": [
         {
